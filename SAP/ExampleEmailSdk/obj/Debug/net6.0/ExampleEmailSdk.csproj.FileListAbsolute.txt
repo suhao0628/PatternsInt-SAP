@@ -1,0 +1,12 @@
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\bin\Debug\net6.0\ExampleEmailSdk.deps.json
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\bin\Debug\net6.0\ExampleEmailSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\bin\Debug\net6.0\ExampleEmailSdk.pdb
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.csproj.AssemblyReference.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.AssemblyInfoInputs.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.AssemblyInfo.cs
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.csproj.CoreCompileInputs.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\refint\ExampleEmailSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ExampleEmailSdk.pdb
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleEmailSdk\obj\Debug\net6.0\ref\ExampleEmailSdk.dll

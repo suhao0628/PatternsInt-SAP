@@ -1,0 +1,12 @@
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\bin\Debug\net6.0\ExampleSmsSdk.deps.json
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\bin\Debug\net6.0\ExampleSmsSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\bin\Debug\net6.0\ExampleSmsSdk.pdb
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.csproj.AssemblyReference.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.AssemblyInfoInputs.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.AssemblyInfo.cs
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.csproj.CoreCompileInputs.cache
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\refint\ExampleSmsSdk.dll
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ExampleSmsSdk.pdb
+C:\Users\suhao\Desktop\PatternsInt-SAP-master\SAP\ExampleSmsSdk\obj\Debug\net6.0\ref\ExampleSmsSdk.dll
